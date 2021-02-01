@@ -1,3 +1,5 @@
 import FactoryMethod from "./Factory method";
+import AbstractFactory from "./Abstract factory";
 
-new FactoryMethod().run();
+FactoryMethod.run();
+AbstractFactory.run();
