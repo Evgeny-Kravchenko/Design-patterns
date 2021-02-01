@@ -39,7 +39,7 @@ export default class FactoryMethod {
   static clientCode(creator: Creator) {
     console.log(creator.someOperation());
   }
-  public run() {
+  static run() {
     console.info("|-------------------------|");
     console.info("|-----Factory method------|");
     console.info("|-------------------------|");
