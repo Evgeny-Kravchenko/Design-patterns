@@ -1,6 +1,6 @@
 import FactoryMethod from "./Factory method";
 import AbstractFactory from "./Abstract factory";
-import BuilderPattern from "./Builder/indes";
+import BuilderPattern from "./Builder";
 import Prototype from "./Prototype";
 import SingletonPattern from "./Singleton";
 
